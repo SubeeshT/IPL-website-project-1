@@ -1,0 +1,577 @@
+body{
+  margin: 0%;
+}
+
+#headerBody{
+  padding-top: .5em;
+  width: 100%;
+  height: 2em;
+}
+.ha1{
+ 
+  padding-left: 2em;
+  margin-top: 0;
+  background-color: transparent;
+  font-family:  -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+  text-decoration: none;
+  color: #243359;
+  font-weight: 600;
+}
+#headLeft{
+ 
+  height: 2em;
+  width: 50%;
+  float: left;
+}
+#headRight{
+  
+  width: 25%;
+  height: 2em;
+  float: left;
+  text-align: left;
+}
+#icon1{
+  padding-left: 2em;
+}
+#icon2{
+  padding-left: 2em;
+
+}
+#centerBody{
+  width: 25%;
+  float: left;
+  color: #fff;
+}
+#imgLogo{
+  width: 10%;
+  float: left;
+}
+.imgRight{
+  width: 70%;
+  margin-left: 2.2em;
+  margin-top: 0;
+}
+#headerBody2{
+  width: 100%;
+  padding-top: 0%;
+  display: flex;
+}
+.nav1{
+  padding-left: 1.7em;
+  text-decoration: none;
+  color:  #243359;
+  font-weight: 600;
+  font-size: 13px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;;
+  
+}
+#nav{
+  width: 70%;
+  padding-top: 1em;
+}
+#searchIcon{
+  width: 20%;
+  margin-top: 1em;
+}
+.bi-search{
+  margin-left: 11em;
+}
+#line1{
+  border: none;
+  width: 100%;
+  height: 1px;
+  background-color: rgb(198, 193, 193);
+}
+#movingPart{
+
+  width: 100%;
+  height: 180px;
+  
+}
+#movigLink{
+  text-decoration: none;
+  font-size:9px;
+  color: #333333;
+  font-family:  -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+  
+}
+#movigLink:hover{
+  color: #079d50;
+}
+#h3-1{
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+
+}
+#h3-1:hover{
+  color: #079d50;
+}
+#line2{
+  width: 100%;
+  height: 5px;
+  background-color: #079d50;
+  margin-left: 0px;
+}
+#headerBody3{
+  width: 100%;
+  float: left;
+}
+#left3{
+  width: 70%;
+  float: left;
+  
+}
+#img2{
+  width: 60%;
+  height: 400px;
+  float: left;
+}
+#img4{
+  width: 37%;
+  margin-left: 25px;
+
+}
+#news1{
+  text-decoration: none;
+  color: #079d50;
+  border: solid 1px;
+  font-weight: bold;
+  font-size: 10px;
+  margin-left: 25px;
+  float: left;
+}
+#news1:hover{
+  background-color:#079d50; 
+  color: #fff;
+}
+.news2{
+  font-weight: bold;
+  font-size: 13px;
+  color: #0f2358;
+  text-decoration: none;
+  margin-left: 23px;
+}
+#news2:hover{
+  color: #079d50;
+}
+#p11{
+  font-size: 10px;
+  padding-left: 35pc;
+}
+#img5{
+  width: 323px;
+  margin-left: 27px;
+}
+#news3{
+  text-decoration: none;
+  color: #079d50;
+  border: solid 1px;
+  font-weight: bold;
+  font-size: 10px;
+  margin-left: 556px;
+  margin-top: 7px;
+  float: left;
+}
+#news3:hover{
+  background-color:#079d50; 
+  color: #fff;
+}
+#rcb1{
+  text-decoration: none;
+  font-size: 11px;
+  color: #0f2358;
+  font-weight: bold;
+  margin-left: -33px;
+}
+#rcb1:hover{
+  color: #079d50;
+}
+#p22{
+  margin-left: 558px;
+  font-size: 10px;
+}
+#a11{
+  text-decoration: none;
+  color: #0f2358;
+  font-size: 17px;
+  font-weight: bold;
+}
+#a11:hover{
+  color: #079d50;
+}
+#p3{
+  font-size: 11px;
+}
+#right33{
+  width: 27%;
+  height: 658px;
+  float: left;
+  padding-left: 15px;
+  padding-right: 22px;
+}
+#h3-2{
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+#h3-2:hover{
+  color: #079d50;
+}
+#line3{
+  width: 100%;
+  height: 5px;
+  background-color: #079d50;
+  margin-left: 0px;
+}
+
+.a2{
+  text-decoration: none;
+  color: #0f2358;
+  font-size: 12px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.a2:hover{
+  color: #079d50;
+}
+.linkFooter{
+  font-size: 11px;
+}
+.rightEndImg{
+  width: 141px;
+}
+.lineRightEnd{
+  border: none;
+  height: 1px; 
+  background-color: #bcb8b8; 
+}
+
+.rightEndImgDiv{
+  float: left;
+}
+.a22{
+  padding-left: 160px;
+}
+.span1:hover{
+  color: #079d50;
+ 
+}
+.span1{
+  font-size: 12px;
+}
+
+
+
+/* Third body section*/
+
+
+#ThirdLeftBody{
+  padding: 20px;
+  padding-left: 6PX;
+}
+
+.ThirdOne{
+  width: 22%;
+  float: left;
+  margin-left: 20px;
+}
+.img9{
+  width: 248px;
+  height: 147px;
+}
+.ThirdOneNews{
+  font-size: 10px;
+  border: solid 1px;
+  font-weight: bold;
+  text-decoration: none;
+  color:#079d50;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.ThirdOneNews:hover{
+  background-color: #079d50;
+  color: #fff;
+}
+.ThirdOneLink{
+  color: #0f2358;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+}
+.ThirdOneLink:hover{
+  color: #079d50;
+}
+.ThirdOneP{
+  font-size: 10px;
+}
+.ThirdOneSpan:hover{
+  color: #079d50;
+}
+
+#line4{
+
+  margin-left: 20px;
+  margin-right: 383px;
+  height: 5px;
+  background-color: #079d50;
+
+}
+#ThirdLineTop{
+  margin-left: 20px;
+}
+#ThirdLine{
+  color: #0f2358;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+#ThirdLine:hover{
+  color: #079d50;
+}
+
+
+/* left section end */
+
+
+
+
+
+
+#line55{
+  height: 7px;
+  background-color: #079d50;
+  margin-left: 875px;
+  margin-top: -4px;
+  margin-right: 20px;
+}
+
+#ThirdRightLink{
+  color: #0f2358;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 119px;
+}
+#ThirdRightLink:hover{
+  color: #079d50;
+}
+#ThirdRightLinkDiv{
+
+  margin-top: -62px;
+  text-align: right;
+}
+.img55{
+  width: 104px;
+  height: 58px;
+  margin-top: 1px;
+
+}
+.img55Div{
+  float: left;
+}
+.img55Link{
+  text-decoration: none;
+  font-size: 13px;
+  color: #0f2358;
+  margin-left: 8px;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+
+.img55Link:hover{
+  color: #079d50;
+}
+.img55LinkDiv{
+  padding-top: 4px;
+}
+.img55p{
+  font-size: 11px;
+}
+.hrLine55{
+  border: none;
+  height: 1px; 
+  background-color: #bcb8b8; 
+  width: 353px;
+}
+
+
+/* Fourth body section*/
+
+
+#fourthBodyHead{
+  width: 100%;
+  margin-top: 284px;
+  padding-left: 33px;
+}
+#h33{
+  color: #0f2358;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.FourthMainBody{
+  padding-left: 2%;
+  padding-right: 1%;
+}
+.FourDiv{
+  width: 23%;
+  padding: 10px;
+  float: left;
+}
+.imgFourthBody{
+  width: 273px;
+}
+.FourthBodyHr{
+  height: 5px;
+  background-color: #079d50;
+  margin-left: 10px;
+  margin-right: 36px;
+  border: none;
+}
+
+/* fifth  body section*/
+
+.h34Div{
+  width: 100%;
+  padding-left: 33px;
+}
+.h34{
+  color: #0f2358;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.imgFourthBody42{
+  width: 273px;
+  height: 155px;
+}
+
+.imgFourthBody44{
+  width: 273px;
+  height: 157px;
+}
+
+
+/* sixth body section*/
+
+.FourDiv33{
+  width: 31%;
+  padding: 10px;
+  float: left;
+}
+
+.imgFourthBody66{
+  width: 378px;
+  height: 209px;
+}
+
+.h6Div1{
+  width: 30%;
+  padding-left: 33px;
+  float: left;
+}
+.h6Div2{
+  width: 30%;
+  padding-left: 20px;
+  float: left;
+}
+.h6Div3{
+  width: 30%;
+  padding-left: 22px;
+  float: left;
+}
+.h6{
+  color: #0f2358;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.SixthBodyHr{
+  height: 7px;
+  margin-top: 325px;
+  width: 376px;
+  margin-left: 10px;
+  background-color: #079d50;
+  border: none;
+}
+
+.SixthBodyHr2{
+  height: 7px;
+  margin-top: -15px;
+  width: 376px;
+  margin-left: 408px;
+  background-color: #079d50;
+  border: none;
+}
+
+.SixthBodyHr3{
+  height: 7px;
+  margin-top: -15px;
+  width: 376px;
+  margin-left: 807px;
+  background-color: #079d50;
+  border: none;
+}
+
+/*footer section*/
+
+#footerDiv{
+
+  padding-left: 3%;
+  padding-right: 3%;
+  background-color: #0b1b46;
+  width: 100%;
+  height: 200px;
+  margin-top: 417px;
+}
+
+.footerH3{
+  color: #079d50;
+  font-family: inherit;
+  font-weight: 500;
+  padding-top: 33px;
+}
+
+.footerA{
+  text-decoration: none;
+  font-weight: normal;
+  color: #c6d4cd;
+  font-size: small;
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+}
+.footerA:hover{
+  color: #079d50;
+}
+.footerDiv2{
+  float: left;
+}
+.FDiv2{
+  margin-left: 130px;
+}
+
+.footerDiv3{
+  float: left;
+}
+.FDiv3{
+  margin-left: 130px;
+}
+
+.footerDiv4{
+  float: left;
+}
+.FDiv4{
+  margin-left: 130px;
+}
+#footerHr{
+
+  height: 0px;
+  background: #c6d4cd;
+  width: 1164px;
+  margin-top: -50px;
+  margin-left: 36px;
+}
+#footerHrDiv{
+  float: left;
+}
+#footerP{
+  color: white;
+  margin-left: 35px;
+  font-size: 13px;
+  margin-top: 14px;
+}
+
+
+
+
+
+
+
+

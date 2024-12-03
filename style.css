@@ -211,17 +211,18 @@ body{
   padding-left: 15px;
   padding-right: 22px;
 }
-#h3-2{
+#h32{
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Segoe UI, Arial, Roboto, PingFang SC, miui, Hiragino Sans GB, Microsoft Yahei, sans-serif;
+  margin-left: 20px;
 }
-#h3-2:hover{
+#h32:hover{
   color: #079d50;
 }
 #line3{
-  width: 100%;
+  width: 90%;
   height: 5px;
   background-color: #079d50;
-  margin-left: 0px;
+  margin-left: 24px;
 }
 
 .a2{
@@ -241,12 +242,14 @@ body{
 }
 .lineRightEnd{
   border: none;
-  height: 1px; 
-  background-color: #bcb8b8; 
+  height: 1px;
+  background-color: #bcb8b8;
+  width: 288px; 
 }
 
 .rightEndImgDiv{
   float: left;
+  margin-left: 26px;
 }
 .a22{
   padding-left: 160px;
